@@ -1,4 +1,4 @@
-# Rub-n-Olmedo
+# Ruben-Olmedo
 Personal README &amp; portfolio overview | Robotics, AI &amp; Computer Engineering Student
 # Hi, I'm Rubén Olmedo 👋
 
