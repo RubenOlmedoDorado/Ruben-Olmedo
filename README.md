@@ -1,5 +1,5 @@
 # Ruben-Olmedo
-Personal README &amp; portfolio overview | Robotics, AI &amp; Computer Engineering Student
+
 # Hi, I'm Rubén Olmedo 👋
 
 I'm a **Computer Engineering and Robotics + AI** student based in Madrid, Spain. Focused on software engineering, computer vision, and building automation workflows.
